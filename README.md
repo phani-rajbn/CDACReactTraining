@@ -1,6 +1,5 @@
-# CDACReactTraining
+# CDACReactTraining (8 hrs)
 <hr/>
-# Day 1:
 <li>JS Concepts
 <li>ES6 Concepts
 <li>Intro to React
@@ -9,5 +8,3 @@
 <li>Props and Events
 <li>Stateless Components
 <li>Statefull Components
-<li>Routing features
-<li>Redux Features  
