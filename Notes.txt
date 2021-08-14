@@ -1,0 +1,18 @@
+React JS training from PHANIRAJ for E-DAC batch June-2021
+Course Outline:
+Quick Wrap on Nodejs.
+ES6 features required as prerequisites for learning ReactJs
+ReactJs training.
+Software requirements:
+Any OS of UR choice
+Nodejs installed for Hosting purpose.
+Visual Studio Code installed for Code editing purpose. U can also install Sublime Text.  
+1. Client side scripting in Web Apps. 
+2. How to write a simple JS code in an HTML page. 
+3. How to write a JS code in a separate JS file and include it inside html doc.
+4. How to work with arrays in JS and use it in HTML page. 
+5. How to create classes and use them in Html page. 
+6. How to use string based functions and math based functions of js in html page. 
+7. How to create use callback functions in JS.
+8. What is the difference b/w undefined vs null. 
+9. What are the data types supported in JS and how to know it. 
